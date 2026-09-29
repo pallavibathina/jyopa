@@ -1,0 +1,6 @@
+{
+  "name": "LibreFind - Smart Digital Library System",
+  "description": "Smart digital library assistant and management system for students and librarians, featuring exact physical rack and shelf location navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
